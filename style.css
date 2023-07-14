@@ -17,26 +17,21 @@ body {
 
 #myphoto {
     border:  5px solid #283d6a;
-    border-radius: 20px;
+    border-radius: 15px;
     margin: 30px;
     height: 200px;
     width: 200px;
 }
 
-h1 {
+.contact {
+    background-color: rgb(175, 171, 171);
+    border-radius: 10px;
+    border: 3px solid #0b0b3a;
+}
+
+/* h1 {
     font-size: 2rem;
     margin-bottom: 30px;
-}
-
-/* li {
-    text-align: left;
-    line-height: 1.5;
-}
-
-ul {
-    text-align: left;
-    margin: 0;
-    padding: 10px;
 } */
 
 table {
@@ -44,7 +39,7 @@ table {
     font-weight: 400;
     line-height: 1.5;
     background-color: aliceblue;
-    width: 70%;
+    width: 90%;
     text-align: left;
     border-bottom: 5px solid #0c0c0c;
     padding: 15px;
@@ -70,27 +65,14 @@ tr {
 
 }
 
-/* td:first-child {
-    width: 40px;
+.noPadding {
+    margin: 0px;
 }
-
-td:nth-child(2) {
-    width: 40px;
-}
-
-td:nth-child(3) {
-    width: 40px;
-}
-
-td:last-child {
-    width: 250px;
-} */
-
-footer {
+/* footer {
     font-size: 2rem;
     margin: 200px auto;
     text-align: center;
     width: 90%;
     height: 90%;
-}
+} */
 
